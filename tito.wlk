@@ -12,10 +12,6 @@ object tito {
     return 490 
   }
 
-  method bebidaConsumida(nuevaBebida){
-    bebidaConsumida = nuevaBebida
-  }
-
   method consumir(cantidad,bebida){
     dosis = cantidad
     bebidaConsumida = bebida
