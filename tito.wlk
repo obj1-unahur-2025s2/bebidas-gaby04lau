@@ -2,7 +2,7 @@ import bebidas.*
 object tito {
 
   var bebidaConsumida = whisky 
-  var dosis = 0
+  var dosis = 1
   
   method peso(){
     return 70
